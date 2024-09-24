@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FileNameFinder/bin/Debug/net8.0
+/FileNameFinder/obj
+/FileNameFinder/Properties/launchSettings.json
+/FileNameFinderTests/bin/Debug/net8.0
+/FileNameFinderTests/obj

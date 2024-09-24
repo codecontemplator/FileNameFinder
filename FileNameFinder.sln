@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNameFinder", "FileNameFinder\FileNameFinder.csproj", "{285D3563-1864-4A08-89B6-2587DB53673E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileNameFinderTests", "FileNameFinderTests\FileNameFinderTests.csproj", "{3D006AEA-B6A5-4426-BB64-9CC6BD8CB88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285D3563-1864-4A08-89B6-2587DB53673E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285D3563-1864-4A08-89B6-2587DB53673E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285D3563-1864-4A08-89B6-2587DB53673E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285D3563-1864-4A08-89B6-2587DB53673E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D006AEA-B6A5-4426-BB64-9CC6BD8CB88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D006AEA-B6A5-4426-BB64-9CC6BD8CB88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D006AEA-B6A5-4426-BB64-9CC6BD8CB88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D006AEA-B6A5-4426-BB64-9CC6BD8CB88E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4653563F-9E6B-42E2-B3E9-7EBAC1A5F127}
+	EndGlobalSection
+EndGlobal
