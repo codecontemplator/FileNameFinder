@@ -21,7 +21,7 @@ public static class CommandLineParser
             throw new ArgumentException("Expected one argument 'file path'. Got zero.");
 
         if (args.Length > 1)
-            throw new ArgumentException("Expected one, single argument 'file path'. Got");
+            throw new ArgumentException($"Expected one, single argument 'file path'. Got {args.Length}");
 
         return args[0];
     }
