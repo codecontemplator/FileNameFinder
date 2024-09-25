@@ -5,7 +5,8 @@ A console application written in C# using dotnet 8.
 Usage: FileNameFinder.exe 'path to file'
 
 Limitations:
-* File must not be larger than the working memory of the computer
-* Weird filenames might work but has not been tested properly
-* Only tested on windows but not unlikely to work on other platforms
+* The file size must not exceed the computer's available working memory.
+* Unconventional filenames may work, but this has not been extensively tested.
+* The program has only been tested on Windows, though it may function on other platforms as well.
+
 
